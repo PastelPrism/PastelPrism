@@ -1,7 +1,7 @@
+_This is a 'Far from finished' README_ 😄
+
 - 👋 Hi, I’m @PastelPrism (or Amy, if one prefers that )
-- 👀 I’m interested in a lot of things, yet there is so little time.
-- 🌱 I’m currently getting comfortable with coding (and walking) again, after life (a car) happened 😄
-- 💞️ I’m looking to collaborate on... not so fast, first recreate everything by myself. 
+- 👀 I’m interested in a lot of things, yet there is so little time. 
 - 📫 How to reach me: Well, usually the best way is by flying through my window. You will definately have my attention then! 
       Otherwise try the normal way, which is amy-van-leeuwen@proton.me in case you really want to give that feedback. 
       Which could be helpful. 
